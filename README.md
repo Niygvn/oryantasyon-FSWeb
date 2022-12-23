@@ -4,7 +4,7 @@ Bu github repository, Git ve GitHub hesaplarınızın kurulumunda size yol göst
 
 ---
 
-## Adımlar
+## Adımlar test
 
 - [x]  README’yi görüntüleme
 - [ ]  Bir GitHub hesabı oluşturma
