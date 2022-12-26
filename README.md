@@ -10,7 +10,7 @@ Bu github repository, Git ve GitHub hesaplarınızın kurulumunda size yol göst
 - [x]  Bir GitHub hesabı oluşturma
 - [x]  Komut satırı arayüzünü açma
 - [x]  Kullanıcı Adı and E-mail oluşturma
-- [ ]  Kimlik doğrulamasının yapılması
+- [x]  Kimlik doğrulamasının yapılması
 - [x]  Repository’nin forklanması 
 - [x]  Repository’nin clone’lanması
 - [x]  Repository’de değişiklik yapma
